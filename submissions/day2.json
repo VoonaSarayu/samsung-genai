@@ -1,0 +1,19 @@
+{
+  "day": 2,
+  "student_name": "Voona Sarayu",
+  "github": "https://github.com/VoonaSarayu",
+  "lab1_scenario": "A",
+  "lab1_prompt": "Role: Act as a Customer Support Specialist for Samsung Care+.\n\nGoal: Write a professional and empathetic reply to a customer regarding their third Galaxy Watch battery complaint this month, offering a suitable resolution without promising a refund.\n\nContext: The customer has reported battery issues with their Galaxy Watch three times this month. The device is still under warranty. The customer is frustrated and expects the issue to be resolved quickly. Acknowledge the inconvenience, explain the next steps, and offer repair or replacement options if covered under warranty, but do not promise a refund.\n\nConstraints: Keep the response between 150–200 words. Show empathy, mention the warranty, explain the next steps clearly, avoid promising a refund, and maintain a professional tone.\n\nStyle/Tone: Polite, empathetic, professional, and reassuring.\n\nOutput Format: A customer support email including a subject line, greeting, body (2–3 short paragraphs), and a professional closing signed by the Samsung Care+ Support Team.",
+  "lab1_output_met_constraints": false,
+  "lab1_extra_scenarios_done": 0,
+  "lab2_problem": "Galaxy Buds distribution centre — shipment/hold/restock",
+  "lab2_naive_output_summary": "The AI answered that 4,299 Galaxy Buds are available for sale by the end of the day. It showed the calculations by subtracting the shipment, applying the 6% quality hold to the remaining stock, and then adding the restocked units.",
+  "lab2_cot_prompt": "",
+  "lab2_cot_output_summary": "",
+  "better_approach": "",
+  "stretch_done": true,
+  "stretch_react_prompt": "Solve the inventory problem step by step. First calculate the remaining stock after the shipment, then calculate the 6% quality hold, subtract it from the remaining stock, add the afternoon restock (which is not subject to the hold), and finally provide the total number of units available for sale. Show all calculations before giving the final answer.",
+  "tasks_completed": 3,
+  "tasks_total": 6,
+  "submitted_at": "2026-07-14T14:34:17.728Z"
+}
