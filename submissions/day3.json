@@ -1,0 +1,20 @@
+{
+  "day": 3,
+  "student_name": "Voona Sarayu",
+  "github": "VoonaSarayu",
+  "ir_hallucination_done": true,
+  "ir_bias_done": true,
+  "ir_guardrail_builder_done": true,
+  "ir_battle_complete": true,
+  "ir_battle_blocked": 8,
+  "ir_battle_total": 8,
+  "rag_scenario": "A",
+  "rag_no_rag_summary": "The No-RAG answer sounded confident and convincing, but it was not completely accurate. It gave a plausible response without verifying the actual policy, demonstrating that confident-sounding AI answers can still contain incorrect information.",
+  "rag_grounded_summary": "The RAG (grounded) answer was accurate and directly followed the provided document. It correctly stated that the standard warranty covers manufacturing defects for 12 months, while accidental damage is covered only under an active Samsung Care+ plan (12 or 24 months), with out-of-pocket repair required otherwise",
+  "rag_judgement": "fixed_wrong",
+  "stretch_done": false,
+  "stretch_notes": "",
+  "tasks_completed": 6,
+  "tasks_total": 6,
+  "submitted_at": "2026-07-15T09:02:35.190Z"
+}
