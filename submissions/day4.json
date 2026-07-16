@@ -1,0 +1,52 @@
+{
+  "day": 4,
+  "student_name": "Voona Sarayu",
+  "github": "SarayuVoona",
+  "incidents": [
+    {
+      "id": "A",
+      "failure_type": "Hallucination",
+      "principle": "Reliability",
+      "justification": "he chatbot confidently invented a non-existent discount policy, providing false information that misled the customer and forced the company to honor an offer it never intended to make."
+    },
+    {
+      "id": "B",
+      "failure_type": "Privacy Violation",
+      "principle": "Privacy",
+      "justification": "The assistant secretly logged employees conversations, including sensitive client contract information, without informing users or obtaining their consent"
+    },
+    {
+      "id": "C",
+      "failure_type": "Deepfake/Misinformation",
+      "principle": "Transparency",
+      "justification": "An AI-generated fake video was presented as real, misleading the public and influencing the company's stock price before it was exposed to the market"
+    },
+    {
+      "id": "D",
+      "failure_type": "Bias/Discrimination",
+      "principle": "Fairness",
+      "justification": "The screening tool indirectly discriminated against applicants from women's colleges, resulting in unfair hiring decisions despite gender not being an explicit input"
+    },
+    {
+      "id": "E",
+      "failure_type": "Bias/Discrimination",
+      "principle": "Fairness",
+      "justification": "he moderation system unfairly targeted one community group's content, causing disproportionate removals without timely human oversight"
+    },
+    {
+      "id": "F",
+      "failure_type": "Deepfake/Misinformation",
+      "principle": "Security",
+      "justification": "AI-generated voice cloning was used to impersonate a trusted executive, deceiving an employee into authorizing a fraudulent wire transfer"
+    }
+  ],
+  "justifications_written": 6,
+  "stretch_done": false,
+  "stretch_company": "",
+  "stretch_failure_type": "",
+  "stretch_principle": "",
+  "stretch_notes": "",
+  "tasks_completed": 6,
+  "tasks_total": 6,
+  "submitted_at": "2026-07-16T06:23:05.808Z"
+}
